@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Joseph D. Smith, a passionate developer dedicated to creating secure and innovative open-source software. My work focuses on enhancing privacy and security for users worldwide. 
+Howdy y'all! I'm Joseph D. Smith, a passionate developer dedicated to creating secure and innovative open-source software. My work focuses on enhancing privacy and security for users worldwide. 
 
 ## My Mission 
 
