@@ -10,7 +10,7 @@ My mission is to end mass surveillance once and for all. So, when you download a
 
 ## Secunetcon
 
-**Secunetcon** stands for Secure Network Configurations. It's a free and open-source project designed to help users configure their network settings securely to protect against mass surveillance and other privacy threats. 
+**Secunetcon** stands for **Secure Network Configurations**. It's a free and open-source project designed to help users configure their network settings securely to protect against mass surveillance and other privacy threats. 
 
 Check out the Secunetcon project on GitHub Pages:
 [Secunetcon](https://juliusthejules.github.io/secunetcon/)
