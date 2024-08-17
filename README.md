@@ -2,22 +2,23 @@
 
 ## About Me
 
-Howdy y'all! I'm Joseph D. Smith, a passionate developer dedicated to creating secure and innovative open-source software. My work focuses on enhancing privacy and security for users worldwide. I'm currently working on my **Secunetcon** project, an all-in-one cybersecurity toolkit utilizing `execute` comnands.
+Hello! I'm Joseph D. Smith, a passionate developer focused on creating innovative solutions that prioritize user privacy and security. My latest project, **Untracutomation**, is designed to automate privacy-centric tasks efficiently, ensuring a safer online experience.
 
-## My Mission 
+## My Mission
 
-My mission is to end mass surveillance once and for all, which I aim to do with my Secunetcon project, which you can use by running the `execute` commands in it's CLI bar. So, when you run the `execute` commands in the **Command Line Interface** (or **CLI**) bar, you're not only protecting yourself against online threats, you're also making the world a safer place for **everyone**; where privacy is a **right** and not a privilege!
+My mission is to empower users by providing tools that enhance privacy and security. With **Untracutomation**, I aim to streamline processes that safeguard your online presence, making privacy accessible and simple for everyone.
 
-## Secunetcon
+## Untracutomation
 
-**Secunetcon** stands for **Secure Network Configurations**. It's a free and open-source project designed to help users configure their network settings securely to protect against mass surveillance and other privacy threats using its CLI to **execute** commands for your relevant devices.
-
-Check out the Secunetcon project on **GitHub Pages**:
-[Secunetcon](https://juliusthejules.github.io/secunetcon/)
+**Untracutomation** is a single-use automation tool that loads only once per page, PWA, or native app session. It automates key privacy tasks, ensuring your digital footprint remains minimal and secure without interrupting your workflow.
 
 ## Contact
 
-Feel free to reach out to me through my **Gravatar** profile:
-[Contact Me](https://gravatar.com/secunetcon)
+You can reach me via:
+
+- **Phone**: [+1(270)404-5487](tel:+12704045487)
+- **Email**: [juliusthejulessp@duck.com](mailto:juliusthejulessp@duck.com?subject=GitHub)
+
+I'm always open to questions or feedback!
 
 Thank you for your support!
