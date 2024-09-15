@@ -2,16 +2,16 @@
 
 ## About Me
 
-I am the developer behind **Numerologivity**, a unique app that transforms numerology into an interactive and personalized experience. Numerologivity lets users input names, phrases, or questions and provides insightful single-number results, adding a fresh twist to traditional numerology.
+I am the developer behind **Untraceabler**, an innovative privacy tool that automates Bash and Batch scripts to help you remain untraceable while online. Untraceabler empowers users to take control of their digital privacy, ensuring a more secure and anonymous browsing experience.
 
-## Explore Numerologivity
+## Explore Untraceabler
 
-Check out the live site and see what insights you can discover:
+Visit the live site to learn more about how Untraceabler can protect your online privacy:
 
-[Visit Numerologivity](https://juliusthejules.github.io/numerologivity/)
+[Visit Untraceabler](https://juliusthejules.github.io/untraceabler/)
 
 You can also view the repository behind the project here:
 
-[Numerologivity GitHub Repository](https://github.com/juliusthejules/numerologivity)
+[Untraceabler GitHub Repository](https://github.com/juliusthejules/untraceabler)
 
 Thank you for stopping by and exploring my work!
