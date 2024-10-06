@@ -1,17 +1,19 @@
-# Welcome to My GitHub Profile!
+# Hello, I'm Joseph D. Smith! 👋
+
+I'm a passionate developer and the creator of **Pyodizer**, a tool designed to enhance privacy and security through smart configuration of devices and networks. My work focuses on giving users control over their digital environment, making it easier to protect their anonymity and secure their connections.
 
 ## About Me
 
-I am the developer behind **Untraceabler**, an innovative privacy tool that automates Bash and Batch scripts to help you remain untraceable while online. Untraceabler empowers users to take control of their digital privacy, ensuring a more secure and anonymous browsing experience.
+With a deep interest in privacy and security, I created **[Pyodizer](https://juliusthejules.github.io/pyodizer/)**, a Python-based configuration tool that anonymizes devices, blocks external IP traffic, disables telemetry, and configures firewalls. My aim is to make security accessible to anyone, empowering individuals to safeguard their digital identity without hassle.
 
-## Explore Untraceabler
+I am always interested in collaborating with like-minded developers and exploring new ways to protect user data and privacy. Feel free to connect with me!
 
-Visit the live site to learn more about how Untraceabler can protect your online privacy:
+## Contact Me
 
-[Visit Untraceabler](https://juliusthejules.github.io/untraceabler/)
+For inquiries, collaboration, or just to chat about privacy and security, you can reach me at:
 
-You can also view the repository behind the project here:
+[joseph.jds.smith@gmail.com](mailto:joseph.jds.smith@gmail.com?subject=GitHub%20Profile)
 
-[Untraceabler GitHub Repository](https://github.com/juliusthejules/untraceabler)
+## License and Contributions
 
-Thank you for stopping by and exploring my work!
+All of my projects, including **Pyodizer**, are released under open-source licenses, encouraging innovation and collaboration. **Pyodizer** is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
