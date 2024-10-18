@@ -9,8 +9,8 @@ With Webringie, I focus on improving the **SEO landscape** by offering open-sour
 
 #### Contact Me
 
-Feel free to reach out to me via email at [joseph.jds.smith@gmail.com](mailto:joseph.jds.smith@gmail.com?subject=GitHub%20Profile) or visit my [Gravatar](https://gravatar.com/webringie) profile for any inquiries, collaborations, or just to say hello!
+You're welcome to reach out via email at [joseph.jds.smith@gmail.com](mailto:joseph.jds.smith@gmail.com?subject=GitHub%20Profile) or visit my [Gravatar](https://gravatar.com/webringie) profile for inquiries, collaborations, or just to say hello!
 
 ##### Sponsorship
 
-If you appreciate my work with Webringie, please consider leaving a tip at my [PayLinkz](https://paylinkz.app/juliusthejules) with your preferred payment method. Thank you so much, from the bottom of my heart for your generous tips! Your tips truly warm my heart. ❤️
+If you find value in my work on Webringie, please consider leaving a tip through my [PayLinkz](https://paylinkz.app/juliusthejules) using your preferred payment method. Thank you sincerely for your generosity — your support truly means the world to me and warms my heart. ❤️
