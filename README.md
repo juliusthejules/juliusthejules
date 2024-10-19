@@ -7,10 +7,14 @@ I am Joseph D. Smith, the **Founder and Developer of [Webringie](https://juliust
 
 With Webringie, I focus on improving the **SEO landscape** by offering open-source tools that empower web developers, marketers, and SEO specialists to easily integrate SEO-optimized metadata. I’m passionate about **helping websites succeed** by ensuring their content is visible and ranking effectively across all major search engines.
 
-#### Contact Me
+#### Project Releases
+
+You can download the latest releases of my projects by visiting the dedicated project directories. These releases include the most up-to-date versions of my work, available for download. Simply follow this [link to my projects](https://github.com/juliusthejules/juliusthejules/tree/main/project) to access the individual project folders and download the files. Stay tuned for new updates and features as I continue developing!
+
+##### Contact Me
 
 You're welcome to reach out via email at [joseph.jds.smith@gmail.com](mailto:joseph.jds.smith@gmail.com?subject=GitHub%20Profile) or visit my [Gravatar](https://gravatar.com/webringie) profile for inquiries, collaborations, or just to say hello!
 
-##### Sponsorship
+###### Sponsorship
 
 If you find value in my work on Webringie, please consider leaving a tip through my [PayLinkz](https://paylinkz.app/juliusthejules) using your preferred payment method. Thank you sincerely for your generosity — your support truly means the world to me and warms my heart. ❤️
