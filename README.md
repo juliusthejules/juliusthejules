@@ -9,7 +9,7 @@ With Webringie, I focus on improving the **SEO landscape** by offering open-sour
 
 #### Project Releases
 
-You can download the latest releases of my projects by visiting the dedicated project directories. These releases include the most up-to-date versions of my work, available for download. Simply follow this [link to my projects](https://github.com/juliusthejules/juliusthejules/tree/main/project) to access the individual project folders and download the files. Stay tuned for new updates and features as I continue developing!
+You can download the latest releases of my projects by visiting the dedicated project directories. These releases include the most up-to-date versions of my work, available for download. Simply follow this [link to my projects](https://github.com/juliusthejules/juliusthejules/tree/main/projects) to access the individual project folders and download the files. Stay tuned for new updates and features as I continue developing!
 
 ##### Contact Me
 
