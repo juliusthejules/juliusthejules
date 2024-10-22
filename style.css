@@ -62,23 +62,6 @@ p {
     font-size: 1.1rem;
     margin-bottom: 20px;
     line-height: 1.8;
-    text-align: left;
-}
-
-/* Button Styling for Future Use (could be for Pyodizer) */
-button {
-    background-color: #007acc;
-    color: #fff;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-    text-align: center;
-}
-
-button:hover {
-    background-color: #005f99;
 }
 
 /* Code block styling for project releases (Pyodizer integration) */
